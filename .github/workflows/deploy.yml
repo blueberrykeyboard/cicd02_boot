@@ -1,7 +1,7 @@
 # 이 워크플로우의 이름
 name: EC2에 배포하기
 
-# main 브랜치에 push가 발생할 때 워크플로우 실행
+# main 브랜치에 push가 발생할 때 워크플로우 실행#
 on:
   push:
     branches:
