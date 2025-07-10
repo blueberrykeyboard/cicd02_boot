@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
     @GetMapping("/")
     public String index(){
-            return "GitHub Actions 빌드 실패 시 배포 중단  CI/CD TEST";
+            return "GitHub Actions 이용한   CI/CD TEST";
     }
 }
